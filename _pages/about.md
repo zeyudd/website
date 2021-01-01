@@ -10,11 +10,11 @@ redirect_from:
 
 About Me
 ======
-I am a Ph.D. candidate and a research assistant in the Department of Computer Science and Engineering at the Pennsylvania State University working with [Prof. Daniel Kifer](http://www.cse.psu.edu/~duk17/) and [Prof. Danfeng Zhang](http://www.cse.psu.edu/~dbz5017/). My current research focuses on differential privacy and its interactions with software security, formal verification, statistical inference and numerical optimization.
+I am a Ph.D. candidate in the Department of Computer Science and Engineering at the Pennsylvania State University. I work with [Prof. Daniel Kifer](http://www.cse.psu.edu/~duk17/) and [Prof. Danfeng Zhang](http://www.cse.psu.edu/~dbz5017/). My current research focuses on differential privacy and its interactions with software security, formal verification, statistical inference and numerical optimization.
 
-Before I join Penn State, I recieved my Ph.D. in Mathematics from SUNY Binghamton, where I was advised by [Prof. Adrian Vasiu](http://people.math.binghamton.edu/adrian/) and worked in the field of algebraic number theory. I also recieved a M.S. in Computer Science from SUNY Binghamton, working in Graphics and Image Computing Laboratory under the supervision of Prof. Lijun Yin. I earned my B.S. in Mathematics from Chu Kochen Honors College, Zhejiang University.
+Before I joined Penn State, I recieved my Ph.D. in Mathematics from SUNY Binghamton, where I was advised by [Prof. Adrian Vasiu](http://people.math.binghamton.edu/adrian/) and worked in the field of algebraic number theory. I also recieved a M.S. in Computer Science from SUNY Binghamton, working in Graphics and Image Computing Laboratory under the supervision of [Prof. Lijun Yin](http://www.cs.binghamton.edu/~lijun/). I earned my B.S. in Mathematics from Chu Kochen Honors College, Zhejiang University.
 
-
+I changed my name from Ding Ding to Zeyu Ding in 2018.
 
 <!-- Getting started
 ======

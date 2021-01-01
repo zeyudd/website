@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Under construction
-<script src="https://bibbase.org/show?bib=http%3A%2F%2Fwww.cse.psu.edu%2F%7Edxd437%2Fpublications%2Fpubs%2Fpubs.bib&jsonp=1"></script>
+
+<script src="https://bibbase.org/show?bib=http://www.cse.psu.edu/~dxd437/mypub/pubs.bib&jsonp=1"></script>
 
 
 {% if site.author.googlescholar %}
@@ -17,6 +17,6 @@ Under construction
 
 
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
