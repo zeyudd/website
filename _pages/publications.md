@@ -17,6 +17,6 @@ Under construction
 
 
 
-<!-- {% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
